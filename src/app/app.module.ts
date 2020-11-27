@@ -39,7 +39,7 @@ import {HttpClientModule} from '@angular/common/http';
     AppRoutingModule,
     HttpClientModule,
   ],
-  
+
   providers: [ShoppingListService, RecipeService],
   bootstrap: [AppComponent]
 })
